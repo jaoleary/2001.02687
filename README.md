@@ -3,7 +3,7 @@ This repository/notebook is intended to reproduce the key results from the paper
 
 ## Getting started
 First you will need to install my python library `galaxybox`, which can be found [here](https://github.com/jaoleary/galaxybox)
-Additonally this notebook assumes that you have installed Emerge and created your own galaxy merger trees. The code can access [here](https://github.com/bmoster/emerge). If you don't want to run emerge yourself, you could instead use the galaxy trees that we have generated, located [here](http://www.usm.uni-muenchen.de/emerge/data/catalog/hdf5/).
+Additonally this notebook assumes that you have installed Emerge and created your own galaxy merger trees. The code can be accessed [here](https://github.com/bmoster/emerge). If you don't want to run emerge yourself, you could instead use the galaxy trees that we have generated, located [here](http://www.usm.uni-muenchen.de/emerge/data/galtrees/hdf5/).
 
 If you are utilizing our premade trees and dont plan to download emerge, you will need to reproduce some of the emerge directory structure. The files show be organized as:
 ```
